@@ -1,0 +1,14 @@
+{
+    "name": "node-red-npm",
+    "version": "0.1.0",
+    "description": "A template for deployable node-red projects",
+    "main": "settings.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "prod": ""
+    },
+    "author": "Sushil Siddesh",
+    "dependencies": {
+        "node-red": "^3.0.2"
+    }
+}
